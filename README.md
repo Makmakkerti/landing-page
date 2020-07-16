@@ -1,2 +1,2 @@
 # landing-page
-Landing page project, using PUG, SASS, GULP 
+Landing page project, using PUG, SASS, GULP etc...
