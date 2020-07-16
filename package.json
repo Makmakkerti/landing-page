@@ -1,0 +1,26 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "My landing page project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Makmakkerti/landing-page.git"
+  },
+  "keywords": [
+    "landing",
+    "page"
+  ],
+  "author": "Konstantin Mokienko",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/Makmakkerti/landing-page/issues"
+  },
+  "homepage": "https://github.com/Makmakkerti/landing-page#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
