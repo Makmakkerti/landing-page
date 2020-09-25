@@ -4,7 +4,8 @@
   "description": "My landing page project",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "gulp" 
   },
   "repository": {
     "type": "git",
